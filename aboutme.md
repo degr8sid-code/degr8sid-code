@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: About Me
 subtitle: This is where I update my qualifications
 ---
