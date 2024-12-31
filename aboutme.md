@@ -1,3 +1,9 @@
+---
+layout: home
+title: About Me
+subtitle: This is where I update my qualifications
+---
+
 My name is Sidrah, and I've explored a lot of possibilities:
 
 - instructor
